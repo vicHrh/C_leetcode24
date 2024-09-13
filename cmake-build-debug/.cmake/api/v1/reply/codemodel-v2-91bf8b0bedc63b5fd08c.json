@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_leetcode24",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_main-Debug-aee8d45b562b60e30f9c.json",
+					"name" : "01_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_main-Debug-32b88dc17bd200c43342.json",
+					"name" : "02_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_main-Debug-bed9d0ef9286108e72f4.json",
+					"name" : "03_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/huangruohao/Documents/GitHub/C_leetcode24/cmake-build-debug",
+		"source" : "/Users/huangruohao/Documents/GitHub/C_leetcode24"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
